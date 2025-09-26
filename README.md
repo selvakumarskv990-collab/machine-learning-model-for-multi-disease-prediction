@@ -5,9 +5,17 @@ To run this project, follow these steps:
 #Install Python
 Make sure Python 3.x is installed on your system.
 
-Install required packages
+1.Install required packages
 Open a terminal in the project folder and run:#
+
+
+
 pip install -r requirements.txt
-#Run the Streamlit app
+
+
+2.#Run the Streamlit app
 In the terminal, run:#
+
+
+
 streamlit run multiple_disease.py
